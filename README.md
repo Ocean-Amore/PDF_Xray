@@ -400,7 +400,7 @@ When using PDF X-Ray in a forensic workflow:
 4. Treat PDF X-Ray findings as technical observations.
 5. Correlate structural findings with visual examination, metadata review, file provenance, and other validated tools.
 6. Document any limitations encountered during examination.
-7. Validate the tool and its outputs before relying on it in formal casework.
+
 
 Suggested record wording:
 
