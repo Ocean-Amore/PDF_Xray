@@ -1,0 +1,22 @@
+pdf_xray_project/
+│
+├── main.py
+├── parser_config.py
+├── pdf_reader.py
+├── stream_decoder.py
+├── image_decoder.py
+├── cmap_parser.py
+├── font_decoder.py
+├── xref_parser.py
+├── object_analyser.py
+├── reporting.py
+│
+├── html_renderer.py
+├── txt_renderer.py
+│
+└── utils/
+    ├── __init__.py
+    ├── filters.py
+    ├── ascii_hexdump.py
+    ├── colour_maps.py
+    └── warnings_engine.py
